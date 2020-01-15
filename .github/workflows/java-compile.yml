@@ -21,7 +21,4 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-        
-    - name: Setup Java JDK
-      uses: actions/setup-java@v1.8.0
     
